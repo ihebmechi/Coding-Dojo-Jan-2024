@@ -1,0 +1,96 @@
+body{
+    font-family: 'Roboto' , sans-serif;
+}
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #8d8782;
+}
+
+.nav-title {
+    color: white;
+    font-family: cursive;
+    text-align: left;
+    margin-left: 20px;
+}    
+
+.search{
+    width: 400px;
+    align-items: center;
+    height: 35px;
+}
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 20px;
+    font-family: cursive;
+}
+.btn {
+    background-color:rgb(51, 96, 165);
+    color:black;
+    border: 1px black;
+    margin-right: 20px;
+    cursor: pointer;
+    box-shadow: 3px 3px 2px 1px;
+    font-weight: bold;
+}
+.active{
+    font-weight: bold;
+}
+.search{
+    margin-right: 100px;
+}
+.ninja{
+    border-style: ridge;
+    border-color: black;
+    inline-size: 400px;
+    margin-top: 30px;
+    padding-left: 20px;
+    display: flex;
+    font-family: cursive;
+    max-height: 250px;
+
+}
+.sub-container{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+.A{
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-right: 20px;
+}
+button{
+    background-color:rgb(233, 220, 38);
+    color:black;
+    border: 1px black;
+    margin-right: 20px;
+    cursor: pointer;
+    box-shadow: 3px 3px 2px 1px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.noun{
+    margin: 0px 0px 0px 0px;
+}
+.ninja1{
+    margin: 0px 0px 0px 0px;
+}
+.end{
+    border-style: ridge;
+    border-color: black;
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 150px;
+}
+.end1{
+    margin-left: 20px;
+}
+.big_div{
+    max-height: 450px;
+}
+.ok{
+    display: flex;
+}
