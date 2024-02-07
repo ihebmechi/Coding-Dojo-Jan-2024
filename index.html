@@ -24,8 +24,9 @@
     <div class="flex-container">
         <!-- left column -->
         <div class="col-l">
-            <video controls class="vidio1" src="./vidio/video (2160p).mp4" width="770"></video>
-
+            <figure class="placeholder" onmouseover="play(this)" onmouseout="pause(this)">
+                <video id="vd" src="./vidio/video (2160p).mp4" class="clip" type="mp4" width="770" height="400" controls muted ></video>
+            </figure>
             <!-- video info -->
             <div class="row">
                 <div class="start">
