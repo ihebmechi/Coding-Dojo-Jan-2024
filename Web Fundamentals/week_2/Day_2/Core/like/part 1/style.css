@@ -1,0 +1,44 @@
+.right-column{
+    width: 70%;
+}
+.link{
+    border-style: ridge;
+    border-color: black;
+    min-width: 650px;
+    min-height: 150px;
+    margin-top: 20px;
+}
+.neil-m{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 20px 20px 20px;
+   
+}
+.likes{
+    text-align: center;
+}
+main{
+    min-height: 400px;
+    display: flex;
+    justify-content: space-between;
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    outline: 2px black;
+}
+body{
+    width: 1000px;
+    margin: 0 auto;
+    font-family: cursive ;
+}
+button{
+    width: 60px;
+    background-color:rgb(233, 220, 38);
+    color:black;
+    border: 1px black;
+    cursor: pointer;
+    box-shadow: 3px 3px 2px 1px;
+    font-weight: bold;
+}

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../portfolio"
+		},
+		{
+			"path": "../../../../../../../traying"
+		},
+		{
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
