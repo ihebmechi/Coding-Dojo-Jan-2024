@@ -1,0 +1,19 @@
+img{
+    width: 200px;
+    align-items: center;
+    background-color:white;
+    justify-content: space-around;
+    margin: 0px 100px 0px 100px;
+}
+h1{
+   text-align: center; 
+}
+.img1{
+    background-color: aquamarine;
+}
+.img2{
+    background-color: violet;
+}
+img3{
+    background-color: white;
+}
