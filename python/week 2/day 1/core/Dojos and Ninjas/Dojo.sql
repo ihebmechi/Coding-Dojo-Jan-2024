@@ -1,0 +1,1 @@
+SELECT * FROM dojo_and_ninjas_schema.dojos;
