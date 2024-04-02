@@ -29,11 +29,15 @@ class Sensei extends Ninja{
         this.wisdom = 10 ; 
     }
     speakWisdom(){
-        super(this.drinkSake)
-        console.log("What one programmer can do in one month, two programmers can do in two months" + this.wisdom)
+        const wisdom = super.drinkSake();
+        console.log("What one programmer can do in one month, two programmers can do in two months " + this.wisdom )
     };
     showStats(){
-        super(superSensei)
+        const name = super.showStats();
+        console.log(this.name)
+        console.log(this.health)
+        console.log(this.speed)
+        console.log(this.strength)
     };
 }
 // example output
