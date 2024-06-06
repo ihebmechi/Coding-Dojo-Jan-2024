@@ -1,11 +1,11 @@
-package com.iheb.booksapi.Repositorys;
+package com.iheb.BooksApi.Repositorys;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
-import com.iheb.booksapi.Models.Book;
+import com.iheb.BooksApi.Models.Book;
 
 @Repository
 public interface BookRepository extends CrudRepository<Book, Long> {

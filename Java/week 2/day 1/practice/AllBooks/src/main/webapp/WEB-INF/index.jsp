@@ -18,7 +18,7 @@
                     <th>ID</th>
                     <th>Title</th>
                     <th>language</th>
-                    <th>Pages</th>
+                    <th># Pages</th>
                 </tr>
             </thead>
             <tbody>

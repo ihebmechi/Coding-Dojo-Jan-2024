@@ -5,12 +5,12 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>title</title>
+<title> title </title>
 </head>
 <body>
     <h1><c:out value="${book.title}" /></h1>
     <h3>Description : <c:out value="${book.description}" /></h3>
     <h3>language : <c:out value="${book.language}" /></h3>
-    <h3>Number of Page : <c:out value="${book.numberOfPages}"/></h3>
+    <h3>Number of Pages: <c:out value="${book.numberOfPages}"/></h3>
 </body>
 </html>

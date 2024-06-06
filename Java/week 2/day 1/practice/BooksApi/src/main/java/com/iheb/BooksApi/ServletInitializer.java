@@ -1,4 +1,4 @@
-package com.iheb.booksapi;
+package com.iheb.BooksApi;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

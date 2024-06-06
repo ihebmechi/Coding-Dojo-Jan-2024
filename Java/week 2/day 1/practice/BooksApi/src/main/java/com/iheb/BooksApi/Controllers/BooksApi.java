@@ -1,4 +1,4 @@
-package com.iheb.booksapi.Controllers;
+package com.iheb.BooksApi.Controllers;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.iheb.booksapi.Models.Book;
-import com.iheb.booksapi.Services.BookService;
+import com.iheb.BooksApi.Models.Book;
+import com.iheb.BooksApi.Services.BookService;
 
 @RestController
 public class BooksApi {

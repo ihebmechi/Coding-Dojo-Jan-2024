@@ -1,12 +1,12 @@
-package com.iheb.booksapi.Services;
+package com.iheb.BooksApi.Services;
 
 import java.util.List;
 import java.util.Optional;
 
 import org.springframework.stereotype.Service;
 
-import com.iheb.booksapi.Models.Book;
-import com.iheb.booksapi.Repositorys.BookRepository;
+import com.iheb.BooksApi.Models.Book;
+import com.iheb.BooksApi.Repositorys.BookRepository;
 
 @Service
 public class BookService {

@@ -1,7 +1,7 @@
-package com.iheb.booksapi.Controllers;
+package com.iheb.BooksApi.Controllers;
 
-import com.iheb.booksapi.Models.Book;
-import com.iheb.booksapi.Services.BookService;
+import com.iheb.BooksApi.Models.Book;
+import com.iheb.BooksApi.Services.BookService;
 
 import jakarta.persistence.Id;
 import org.springframework.beans.factory.annotation.Autowired;

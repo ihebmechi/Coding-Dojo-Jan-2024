@@ -1,4 +1,4 @@
-package com.iheb.booksapi.Models;
+package com.iheb.BooksApi.Models;
 
 import java.util.Date;
 import jakarta.persistence.Column;
